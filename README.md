@@ -1,6 +1,6 @@
 # CRSpline
 
-![screenshot]screenshot.png
+![screenshot]https://github.com/zd304/CRSpline/blob/master/screenshot.png
 
 ## API
 
